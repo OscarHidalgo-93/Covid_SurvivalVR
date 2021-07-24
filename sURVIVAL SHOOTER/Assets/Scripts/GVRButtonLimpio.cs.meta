@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 191d80d22fac1664b9f2bcb9f9b9b8d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imgReticula: {fileID: 3728760705248399179, guid: 3d209f90960bf9a439a5cb0dc55ad981,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
